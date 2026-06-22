@@ -40,13 +40,21 @@ Mettre les données au service de la prise de décision grâce à des analyses f
 
 ## Projets phares
 
-### 📊 Sanitoral – Tableau de bord Power BI
+### Sanitoral – Tableau de bord Power BI
 Pilotage de projets internationaux, KPI, DAX, RLS et Data Storytelling.
 
-### 🍷 Bottleneck – Analyse commerciale Python
+=> Voir le projet : https://github.com/gchretien-data/sanitoral-project-dashboard
+
+### Bottleneck – Analyse commerciale Python
 Consolidation de données, analyse de rentabilité et recommandations métier.
+
+=> Voir le projet : https://github.com/gchretien-data/bottleneck-sales-analysis
 
 
 ## Contact
 
 - LinkedIn : www.linkedin.com/in/géraldine-chretien-a28b7714a
+
+## Recherche d'opportunités
+
+Disponible pour un poste de Business Intelligence Analyst à partir d'octobre 2026.
