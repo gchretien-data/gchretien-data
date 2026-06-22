@@ -37,6 +37,16 @@ Après plusieurs années d'expérience en gestion de la paie et dans un environn
 
 Mettre les données au service de la prise de décision grâce à des analyses fiables, des indicateurs pertinents et des tableaux de bord adaptés aux besoins métier.
 
+
+## Projets phares
+
+### 📊 Sanitoral – Tableau de bord Power BI
+Pilotage de projets internationaux, KPI, DAX, RLS et Data Storytelling.
+
+### 🍷 Bottleneck – Analyse commerciale Python
+Consolidation de données, analyse de rentabilité et recommandations métier.
+
+
 ## Contact
 
 - LinkedIn : www.linkedin.com/in/géraldine-chretien-a28b7714a
