@@ -110,7 +110,7 @@ Traitement d'une base CRM de **10 302 enregistrements** afin d'améliorer la qua
 
 ## 💼 Expérience métier & Data
 
-Avant de me spécialiser en Business Intelligence, j'ai travaillé pendant **5 années dans la gestion, le contrôle et la fiabilisation de données RH** au sein d'un environnement industriel international.
+En complément de mes compétences en Business Intelligence, je m'appuie sur **5 années d'expérience dans la gestion, le contrôle et la fiabilisation de données RH** au sein d'un environnement industriel international.
 
 Cette expérience m'a notamment permis de travailler sur :
 
