@@ -57,7 +57,7 @@ Analyse de plus de **24 000 transactions immobilières parisiennes** afin d'étu
 - Segmentation des biens par clustering K-means
 - Analyse et visualisation des résultats avec Python
 
-➡️ **[Voir le projet Immobilier Paris](https://github.com/gchretien-data/Add-project-documentation-and-visuals)**
+➡️ **[Voir le projet Immobilier Paris](https://github.com/gchretien-data/paris-real-estate-machine-learning)**
 
 ---
 
