@@ -6,8 +6,7 @@ Spécialisée dans la préparation, la fiabilisation, l'analyse et la visualisat
 
 Forte de **5 années d'expérience dans la gestion, le contrôle et la fiabilisation de données** en environnement industriel international, j'associe aujourd'hui cette expérience métier à des compétences en **Business Intelligence et Data Analysis**.
 
-📍 Belfort, France  
-📅 Disponible à partir d'octobre 2026
+📍 Belfort, France
 
 ---
 
