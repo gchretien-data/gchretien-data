@@ -6,7 +6,8 @@ Spécialisée dans la préparation, la fiabilisation, l'analyse et la visualisat
 
 Forte de **5 années d'expérience dans la gestion, le contrôle et la fiabilisation de données** en environnement industriel international, j'associe aujourd'hui cette expérience métier à des compétences en **Business Intelligence et Data Analysis**.
 
-📍 Belfort, France
+📍 Belfort, France  
+💼 À l'écoute d'opportunités en Business Intelligence & Data Analysis
 
 ---
 
@@ -146,7 +147,7 @@ Conception d'un tableau de bord interactif destiné au pilotage de l'activité c
 - Analyse des performances commerciales et promotionnelles
 - Formulation de recommandations d'aide à la décision
 
-➡️ **Voir le projet BottleNeck – Power BI**
+➡️ [**Voir le projet BottleNeck – Power BI**](https://github.com/gchretien-data/bottleneck-tableau-de-bord-power-bi)
 
 ---
 
@@ -163,7 +164,7 @@ Analyse des ventes, des prix, des marges et des stocks afin d'identifier les pri
 - Analyse des stocks et des marges
 - Restitution des résultats métier
 
-➡️ **Voir le projet BottleNeck – Analyse**
+➡️ [**Voir le projet BottleNeck – Analyse commerciale**](https://github.com/gchretien-data/bottleneck-sales-analysis)
 
 ---
 
@@ -206,7 +207,7 @@ Cette double expérience **métier & Data** me permet aujourd'hui d'aborder les 
 
 Mettre mes compétences en **Business Intelligence et Data Analysis** au service du pilotage et de l'aide à la décision, en concevant des analyses fiables, des KPI pertinents et des outils adaptés aux besoins métiers.
 
-Je recherche des opportunités en tant que **Business Intelligence Analyst / Data Analyst**, avec une disponibilité à partir d'**octobre 2026**.
+Je recherche des opportunités en tant que **Business Intelligence Analyst / Data Analyst**.
 
 ---
 
